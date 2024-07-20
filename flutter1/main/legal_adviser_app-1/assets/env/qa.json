@@ -1,0 +1,10 @@
+{
+  "groupId": 1698658253245,
+  "roleId": 1701427961185,
+  "baseUrl": "https://mbcut2mq36.execute-api.ap-south-1.amazonaws.com/commerce/",
+  "authBaseUrl": "https://4r4iwhot12.execute-api.ap-south-1.amazonaws.com/auth/",
+  "gatewayUrl": "https://gxppcdmn7h.execute-api.ap-south-1.amazonaws.com/",
+  "peopleMngtUrl": "https://qitinnxwl2.execute-api.us-east-2.amazonaws.com/peopleManagement/members/",
+  "imageUploadBaseUrl": "https://oyflwrul24.execute-api.ap-south-1.amazonaws.com/default/",
+  "paymentGateway": "http://13.200.82.174:8080/payment/v1/api/"
+}

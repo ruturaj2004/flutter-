@@ -1,0 +1,35 @@
+class AppString {
+  static const String hello = "Hello";
+  static const String performance = "Your today's performance";
+  static const String orders = "Orders";
+  static const String leads = "Leads";
+  static const String sales = "Sales";
+  static const String campaign = "Campign";
+  static const String status = "Status";
+  static const String clock = "Clock in";
+  static const String starttracking = "Start Tracking";
+  static const String neworders = "New Orders";
+  static const String searchCustomer = "Search Customer";
+  static const String searchProduct = "Search Products";
+  static const String phoneNumber = "Phone Number";
+  static const String villageName = "Village Name";
+  static const String pinCode = "Pin code";
+  static const String productName = "Products Name";
+  static const String price = "Price";
+  static const String product = "Products";
+  static const String newLeads = "New Leads";
+  static const String powerBy = "Powered by";
+  static const String companyName = "the baap comapny";
+  static const String typesCompany = "Software Company";
+  static const String enterOtp = "Enter OTP";
+  static const String obsureOtpText = '●';
+  static const String loginAccount = "Get started by logging in your account";
+  static const String save = 'Save';
+  static const String cancel = 'Cancel';
+  static const String createCustomer = 'Create Customer';
+  static const String cancle = 'Cancle';
+  static const String shopingCart = "Shopping Cart";
+  static const String payment = "Payment";
+  static const String createProduct = 'Create Product';
+  static const String resendOTP = "Resend OTP";
+}
